@@ -3,7 +3,11 @@ html {
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
 }
 
-h1, h2, p, a {
+h1, h2, p, a, i {
   color: #fff;
   text-decoration: none;
+}
+
+svg {
+  fill: currentColor;
 }
